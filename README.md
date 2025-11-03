@@ -1,4 +1,4 @@
-# Project Created with AI within 5 minuntes :) including pushing to the git.
+# Project Created within AI within 5 minuntes :) including pushing to the git.
 
 # Task Manager Web Application
 
