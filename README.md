@@ -1,3 +1,5 @@
+# Project Created with AI within 5 minuntes :) including pushing to the git.
+
 # Task Manager Web Application
 
 A modern, beautiful task management web application built with Python Django. Keep track of your tasks with priority levels, status tracking, and due dates.
